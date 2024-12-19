@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: MJANGITSYNC19Project
+  gitServerName: MANOjGITHUB
+  gitUrl: https://github.com/manojjannu
+  gitUsername: manojjannu
+  gitBranch: main
